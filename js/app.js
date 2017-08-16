@@ -15,4 +15,4 @@ var inputURL = document.getElementById('url');
          this.value = "";
      }
  }
- inputURL.onkeydown = getERL;
+ inputURL.onkeydown = getURL;
